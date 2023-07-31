@@ -1,2 +1,2 @@
-# MSDS-M09-Exercise
+# M09
 Creating a package
